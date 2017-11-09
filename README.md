@@ -1,7 +1,7 @@
 # PS3 Playground
 
 
-This project was leaked and all files have been removed :(
+This project was leaked and all testing files have been removed :(
 
 
 The official release will be announced soon!
